@@ -1,0 +1,1 @@
+export const logo = "https://kartinki.pibig.info/uploads/posts/2023-04/1681507823_kartinki-pibig-info-p-kartinka-burgut-arti-vkontakte-4.jpg"
